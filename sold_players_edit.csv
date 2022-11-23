@@ -1,0 +1,238 @@
+,Unnamed: 0,Player,Base Price,TYPE,COST IN ₹ (CR.),Cost IN $ (000),2021 Squad,Team,Status,retention,Base_Price_unit,BasePrice
+0,0,Rashid Khan,0,BOWLER,15.0,1950.0,SRH,Gujarat Titans,Sold,Draft Pick,0,0
+1,1,Hardik Pandya,0,ALL-ROUNDER,15.0,1950.0,MI,Gujarat Titans,Sold,Draft Pick,0,0
+2,2,Lockie Ferguson,2 Cr,BOWLER,10.0,1300.0,KKR,Gujarat Titans,Sold,From Auction,Cr,2
+3,3,Rahul Tewatia,40 Lakh,ALL-ROUNDER,9.0,1170.0,RR,Gujarat Titans,Sold,From Auction,Lakh,40
+4,4,Shubman Gill,0,BATTER,8.0,1040.0,KKR,Gujarat Titans,Sold,Draft Pick,0,0
+5,5,Mohammad Shami,2 Cr,BOWLER,6.25,812.5,PBKS,Gujarat Titans,Sold,From Auction,Cr,2
+6,6,Yash Dayal,20 Lakh,BOWLER,3.2,416.0,Not Participated,Gujarat Titans,Sold,From Auction,Lakh,20
+7,7,David Miller,1 Cr,BATTER,3.0,390.0,RR,Gujarat Titans,Sold,From Auction,Cr,1
+8,8,R. Sai Kishore,20 Lakh,BOWLER,3.0,390.0,CSK,Gujarat Titans,Sold,From Auction,Lakh,20
+9,9,Abhinav Sadarangani,20 Lakh,BATTER,2.6,338.0,Not Participated,Gujarat Titans,Sold,From Auction,Lakh,20
+10,10,Matthew Wade,2 Cr,WICKETKEEPER,2.4,312.0,Not Participated,Gujarat Titans,Sold,From Auction,Cr,2
+11,11,Alzarri Joseph,75 Lakh,BOWLER,2.4,312.0,Not Participated,Gujarat Titans,Sold,From Auction,Lakh,75
+12,12,Jason Roy,2 Cr,BATTER,2.0,260.0,SRH,Gujarat Titans,Sold,From Auction,Cr,2
+13,13,Wriddhiman Saha,1 Cr,WICKETKEEPER,1.9,247.0,SRH,Gujarat Titans,Sold,From Auction,Cr,1
+14,14,Jayant Yadav,1 Cr,ALL-ROUNDER,1.7,221.0,MI,Gujarat Titans,Sold,From Auction,Cr,1
+15,15,Vijay Shankar,50 Lakh,ALL-ROUNDER,1.4,182.0,SRH,Gujarat Titans,Sold,From Auction,Lakh,50
+16,16,Dominic Drakes,75 Lakh,ALL-ROUNDER,1.1,143.0,CSK,Gujarat Titans,Sold,From Auction,Lakh,75
+17,17,Varun Aaron,50 Lakh,BOWLER,0.5,65.0,Not Participated,Gujarat Titans,Sold,From Auction,Lakh,50
+18,18,Gurkeerat Singh,50 Lakh,ALL-ROUNDER,0.5,65.0,KKR,Gujarat Titans,Sold,From Auction,Lakh,50
+19,19,Noor Ahmad,30 Lakh,BOWLER,0.3,39.0,Not Participated,Gujarat Titans,Sold,From Auction,Lakh,30
+20,20,Darshan Nalkande,20 Lakh,ALL-ROUNDER,0.2,26.0,PBKS,Gujarat Titans,Sold,From Auction,Lakh,20
+21,21,Pradeep Sangwan,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Gujarat Titans,Sold,From Auction,Lakh,20
+22,22,Ravindra Jadeja,Retained,ALL-ROUNDER,16.0,2080.0,CSK,Chennai Super Kings,Sold,Retained,Retained,Retained
+23,23,Deepak Chahar,2 Cr,BOWLER,14.0,1820.0,CSK,Chennai Super Kings,Sold,From Auction,Cr,2
+24,24,MS Dhoni,Retained,WICKETKEEPER,12.0,1560.0,CSK,Chennai Super Kings,Sold,Retained,Retained,Retained
+25,25,Moeen Ali,Retained,ALL-ROUNDER,8.0,1040.0,CSK,Chennai Super Kings,Sold,Retained,Retained,Retained
+26,26,Ambati Rayudu,2 Cr,WICKETKEEPER,6.75,877.5,CSK,Chennai Super Kings,Sold,From Auction,Cr,2
+27,27,Ruturaj Gaikwad,Retained,BATTER,6.0,780.0,CSK,Chennai Super Kings,Sold,Retained,Retained,Retained
+28,28,Dwayne Bravo,2 Cr,ALL-ROUNDER,4.4,572.0,CSK,Chennai Super Kings,Sold,From Auction,Cr,2
+29,29,Shivam Dube,50 Lakh,ALL-ROUNDER,4.0,520.0,RR,Chennai Super Kings,Sold,From Auction,Lakh,50
+30,30,Chris Jordan,2 Cr,ALL-ROUNDER,3.6,468.0,PBKS,Chennai Super Kings,Sold,From Auction,Cr,2
+31,31,Robin Uthappa,2 Cr,BATTER,2.0,260.0,CSK,Chennai Super Kings,Sold,From Auction,Cr,2
+32,32,Mitchell Santner,1 Cr,ALL-ROUNDER,1.9,247.0,CSK,Chennai Super Kings,Sold,From Auction,Cr,1
+33,33,Adam Milne,1.5 Cr,BOWLER,1.9,247.0,MI,Chennai Super Kings,Sold,From Auction,Cr,1.5
+34,34,Rajvardhan Hangargekar,30 Lakh,ALL-ROUNDER,1.5,195.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,30
+35,35,Prashant Solanki,20 Lakh,BOWLER,1.2,156.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,20
+36,36,Devon Conway,1 Cr,BATTER,1.0,130.0,Not Participated,Chennai Super Kings,Sold,From Auction,Cr,1
+37,37,Maheesh Theekshana,50 Lakh,BOWLER,0.7,91.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,50
+38,38,Dwaine Pretorius,50 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,50
+39,39,K.Bhagath Varma,20 Lakh,ALL-ROUNDER,0.2,26.0,CSK,Chennai Super Kings,Sold,From Auction,Lakh,20
+40,40,Simarjeet Singh,20 Lakh,BOWLER,0.2,26.0,MI,Chennai Super Kings,Sold,From Auction,Lakh,20
+41,41,N. Jagadeesan,20 Lakh,WICKETKEEPER,0.2,26.0,CSK,Chennai Super Kings,Sold,From Auction,Lakh,20
+42,42,C.Hari Nishaanth,20 Lakh,BATTER,0.2,26.0,CSK,Chennai Super Kings,Sold,From Auction,Lakh,20
+43,43,K.M. Asif,20 Lakh,BOWLER,0.2,26.0,CSK,Chennai Super Kings,Sold,From Auction,Lakh,20
+44,44,Tushar Deshpande,20 Lakh,BOWLER,0.2,26.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,20
+45,45,Subhranshu Senapati,20 Lakh,BATTER,0.2,26.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,20
+46,46,Mukesh Choudhary,20 Lakh,BOWLER,0.2,26.0,Not Participated,Chennai Super Kings,Sold,From Auction,Lakh,20
+47,47,Rishabh Pant,Retained,WICKETKEEPER,16.0,2080.0,DC,Delhi Capitals,Sold,Retained,Retained,Retained
+48,48,Shardul Thakur,2 Cr,BOWLER,10.75,1397.5,CSK,Delhi Capitals,Sold,From Auction,Cr,2
+49,49,Axar Patel,Retained,ALL-ROUNDER,9.0,1170.0,DC,Delhi Capitals,Sold,Retained,Retained,Retained
+50,50,Prithvi Shaw,Retained,BATTER,7.5,975.0,DC,Delhi Capitals,Sold,Retained,Retained,Retained
+51,51,Mitchell Marsh,2 Cr,ALL-ROUNDER,6.5,845.0,Not Participated,Delhi Capitals,Sold,From Auction,Cr,2
+52,52,Anrich Nortje,Retained,BOWLER,6.5,845.0,DC,Delhi Capitals,Sold,Retained,Retained,Retained
+53,53,David Warner,2 Cr,BATTER,6.25,812.5,SRH,Delhi Capitals,Sold,From Auction,Cr,2
+54,54,Syed Khaleel Ahmed,50 Lakh,BOWLER,5.25,682.5,SRH,Delhi Capitals,Sold,From Auction,Lakh,50
+55,55,Chetan Sakariya,50 Lakh,BOWLER,4.2,546.0,RR,Delhi Capitals,Sold,From Auction,Lakh,50
+56,56,Rovman Powell,75 Lakh,BATTER,2.8,364.0,Not Participated,Delhi Capitals,Sold,From Auction,Lakh,75
+57,57,K.S. Bharat,20 Lakh,WICKETKEEPER,2.0,260.0,RCB,Delhi Capitals,Sold,From Auction,Lakh,20
+58,58,Mustafizur Rahman,2 Cr,BOWLER,2.0,260.0,RR,Delhi Capitals,Sold,From Auction,Cr,2
+59,59,Kuldeep Yadav,1 Cr,BOWLER,2.0,260.0,KKR,Delhi Capitals,Sold,From Auction,Cr,1
+60,60,Kamlesh Nagarkoti,40 Lakh,ALL-ROUNDER,1.1,143.0,KKR,Delhi Capitals,Sold,From Auction,Lakh,40
+61,61,Mandeep Singh,50 Lakh,BATTER,1.1,143.0,PBKS,Delhi Capitals,Sold,From Auction,Lakh,50
+62,62,Lalit Yadav,20 Lakh,ALL-ROUNDER,0.65,84.5,DC,Delhi Capitals,Sold,From Auction,Lakh,20
+63,63,Tim Seifert,50 Lakh,WICKETKEEPER,0.5,65.0,KKR,Delhi Capitals,Sold,From Auction,Lakh,50
+64,64,Pravin Dubey,20 Lakh,ALL-ROUNDER,0.5,65.0,DC,Delhi Capitals,Sold,From Auction,Lakh,20
+65,65,Lungisani Ngidi,50 Lakh,BOWLER,0.5,65.0,CSK,Delhi Capitals,Sold,From Auction,Lakh,50
+66,66,Yash Dhull,20 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Delhi Capitals,Sold,From Auction,Lakh,20
+67,67,Ashwin Hebbar,20 Lakh,BATTER,0.2,26.0,Not Participated,Delhi Capitals,Sold,From Auction,Lakh,20
+68,68,Sarfaraz Khan,20 Lakh,ALL-ROUNDER,0.2,26.0,PBKS,Delhi Capitals,Sold,From Auction,Lakh,20
+69,69,Ripal Patel,20 Lakh,ALL-ROUNDER,0.2,26.0,DC,Delhi Capitals,Sold,From Auction,Lakh,20
+70,70,Vicky Ostwal,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Delhi Capitals,Sold,From Auction,Lakh,20
+71,71,Shreyas Iyer,2 Cr,BATTER,12.25,1592.5,DC,Kolkata Knight Riders,Sold,From Auction,Cr,2
+72,72,Andre Russell,Retained,ALL-ROUNDER,12.0,1560.0,KKR,Kolkata Knight Riders,Sold,Retained,Retained,Retained
+73,73,Nitish Rana,1 Cr,ALL-ROUNDER,8.0,1040.0,KKR,Kolkata Knight Riders,Sold,From Auction,Cr,1
+74,74,Venkatesh Iyer,Retained,ALL-ROUNDER,8.0,1040.0,KKR,Kolkata Knight Riders,Sold,Retained,Retained,Retained
+75,75,Varun Chakaravarthy,Retained,BOWLER,8.0,1040.0,KKR,Kolkata Knight Riders,Sold,Retained,Retained,Retained
+76,76,Pat Cummins,2 Cr,ALL-ROUNDER,7.25,942.5,KKR,Kolkata Knight Riders,Sold,From Auction,Cr,2
+77,77,Shivam Mavi,40 Lakh,ALL-ROUNDER,7.25,942.5,KKR,Kolkata Knight Riders,Sold,From Auction,Lakh,40
+78,78,Sunil Narine,Retained,ALL-ROUNDER,6.0,780.0,KKR,Kolkata Knight Riders,Sold,Retained,Retained,Retained
+79,79,Sam Billings,2 Cr,WICKETKEEPER,2.0,260.0,DC,Kolkata Knight Riders,Sold,From Auction,Cr,2
+80,80,Umesh Yadav,2 Cr,BOWLER,2.0,260.0,DC,Kolkata Knight Riders,Sold,From Auction,Cr,2
+81,81,Tim Southee,1.5 Cr,BOWLER,1.5,195.0,KKR,Kolkata Knight Riders,Sold,From Auction,Cr,1.5
+82,82,Alex Hales,1.5 Cr,BATTER,1.5,195.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Cr,1.5
+83,83,Ajinkya Rahane,1 Cr,BATTER,1.0,130.0,DC,Kolkata Knight Riders,Sold,From Auction,Cr,1
+84,84,Mohammad Nabi,1 Cr,ALL-ROUNDER,1.0,130.0,SRH,Kolkata Knight Riders,Sold,From Auction,Cr,1
+85,85,Sheldon Jackson,30 Lakh,WICKETKEEPER,0.6,78.0,KKR,Kolkata Knight Riders,Sold,From Auction,Lakh,30
+86,86,Rinku Singh,20 Lakh,BATTER,0.55,71.5,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+87,87,Ashok Sharma,20 Lakh,BOWLER,0.55,71.5,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+88,88,Chamika Karunaratne,50 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,50
+89,89,Abhijeet Tomar,20 Lakh,BATTER,0.4,52.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+90,90,Rasikh Dar,20 Lakh,BOWLER,0.2,26.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+91,91,Anukul Roy,20 Lakh,ALL-ROUNDER,0.2,26.0,MI,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+92,92,Baba Indrajith,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+93,93,Aman Khan,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+94,94,Ramesh Kumar,20 Lakh,BATTER,0.2,26.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+95,95,Pratham Singh,20 Lakh,BATTER,0.2,26.0,Not Participated,Kolkata Knight Riders,Sold,From Auction,Lakh,20
+96,96,Mayank Agarwal,Retained,BATTER,12.0,1560.0,PBKS,Punjab Kings,Sold,Retained,Retained,Retained
+97,97,Liam Livingstone,1 Cr,ALL-ROUNDER,11.5,1495.0,RR,Punjab Kings,Sold,From Auction,Cr,1
+98,98,Kagiso Rabada,2 Cr,BOWLER,9.25,1202.5,DC,Punjab Kings,Sold,From Auction,Cr,2
+99,99,Shahrukh Khan,40 Lakh,ALL-ROUNDER,9.0,1170.0,PBKS,Punjab Kings,Sold,From Auction,Lakh,40
+100,100,Shikhar Dhawan,2 Cr,BATTER,8.25,1072.5,DC,Punjab Kings,Sold,From Auction,Cr,2
+101,101,Jonny Bairstow,1.5 Cr,WICKETKEEPER,6.75,877.5,SRH,Punjab Kings,Sold,From Auction,Cr,1.5
+102,102,Odean Smith,1 Cr,ALL-ROUNDER,6.0,780.0,Not Participated,Punjab Kings,Sold,From Auction,Cr,1
+103,103,Rahul Chahar,75 Lakh,BOWLER,5.25,682.5,MI,Punjab Kings,Sold,From Auction,Lakh,75
+104,104,Arshdeep Singh,Retained,BOWLER,4.0,520.0,PBKS,Punjab Kings,Sold,Retained,Retained,Retained
+105,105,Harpreet Brar,20 Lakh,ALL-ROUNDER,3.8,494.0,PBKS,Punjab Kings,Sold,From Auction,Lakh,20
+106,106,Vaibhav Arora,20 Lakh,BOWLER,2.0,260.0,KKR,Punjab Kings,Sold,From Auction,Lakh,20
+107,107,Raj Angad Bawa,20 Lakh,ALL-ROUNDER,2.0,260.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+108,108,Nathan Ellis,75 Lakh,BOWLER,0.75,97.5,PBKS,Punjab Kings,Sold,From Auction,Lakh,75
+109,109,Prabhsimran Singh,20 Lakh,WICKETKEEPER,0.6,78.0,PBKS,Punjab Kings,Sold,From Auction,Lakh,20
+110,110,Rishi Dhawan,50 Lakh,ALL-ROUNDER,0.55,71.5,Not Participated,Punjab Kings,Sold,From Auction,Lakh,50
+111,111,Sandeep Sharma,50 Lakh,BOWLER,0.5,65.0,SRH,Punjab Kings,Sold,From Auction,Lakh,50
+112,112,Bhanuka Rajapaksa,50 Lakh,BATTER,0.5,65.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,50
+113,113,Benny Howell,40 Lakh,ALL-ROUNDER,0.4,52.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,40
+114,114,Ishan Porel,20 Lakh,BOWLER,0.25,32.5,PBKS,Punjab Kings,Sold,From Auction,Lakh,20
+115,115,Prerak Mankad,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+116,116,Ansh Patel,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+117,117,Jitesh Sharma,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+118,118,Writtick Chatterjee,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+119,119,Atharva Taide,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+120,120,Baltej Dhanda,20 Lakh,BOWLER,0.2,26.0,Not Participated,Punjab Kings,Sold,From Auction,Lakh,20
+121,121,KL Rahul,0,WICKETKEEPER,17.0,2210.0,PBKS,Lucknow Super Giants,Sold,Draft Pick,0,0
+122,122,Avesh Khan,20 Lakh,BOWLER,10.0,1300.0,DC,Lucknow Super Giants,Sold,From Auction,Lakh,20
+123,123,Marcus Stoinis,0,ALL-ROUNDER,9.2,1196.0,DC,Lucknow Super Giants,Sold,Draft Pick,0,0
+124,124,Jason Holder,1.5 Cr,ALL-ROUNDER,8.75,1137.5,SRH,Lucknow Super Giants,Sold,From Auction,Cr,1.5
+125,125,Krunal Pandya,2 Cr,ALL-ROUNDER,8.25,1072.5,MI,Lucknow Super Giants,Sold,From Auction,Cr,2
+126,126,Mark Wood,2 Cr,BOWLER,7.5,975.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Cr,2
+127,127,Quinton De Kock,2 Cr,WICKETKEEPER,6.75,877.5,MI,Lucknow Super Giants,Sold,From Auction,Cr,2
+128,128,Deepak Hooda,75 Lakh,ALL-ROUNDER,5.75,747.5,PBKS,Lucknow Super Giants,Sold,From Auction,Lakh,75
+129,129,Manish Pandey,1 Cr,BATTER,4.6,598.0,SRH,Lucknow Super Giants,Sold,From Auction,Cr,1
+130,130,Ravi Bishnoi,0,BOWLER,4.0,520.0,PBKS,Lucknow Super Giants,Sold,Draft Pick,0,0
+131,131,Dushmanta Chameera,50 Lakh,BOWLER,2.0,260.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,50
+132,132,Evin Lewis,2 Cr,BATTER,2.0,260.0,RR,Lucknow Super Giants,Sold,From Auction,Cr,2
+133,133,K. Gowtham,50 Lakh,ALL-ROUNDER,0.9,117.0,CSK,Lucknow Super Giants,Sold,From Auction,Lakh,50
+134,134,Kyle Mayers,50 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,50
+135,135,Shahbaz Nadeem,50 Lakh,BOWLER,0.5,65.0,SRH,Lucknow Super Giants,Sold,From Auction,Lakh,50
+136,136,Ankit Singh Rajpoot,20 Lakh,BOWLER,0.5,65.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,20
+137,137,Manan Vohra,20 Lakh,BATTER,0.2,26.0,RR,Lucknow Super Giants,Sold,From Auction,Lakh,20
+138,138,B. Sai Sudharsan,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,20
+139,139,Karan Sharma,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,20
+140,140,Ayush Badoni,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,20
+141,141,Mohsin Khan,20 Lakh,BOWLER,0.2,26.0,MI,Lucknow Super Giants,Sold,From Auction,Lakh,20
+142,142,Mayank Yadav,20 Lakh,BOWLER,0.2,26.0,Not Participated,Lucknow Super Giants,Sold,From Auction,Lakh,20
+143,143,Rohit Sharma,Retained,BATTER,16.0,2080.0,MI,Mumbai Indians,Sold,Retained,Retained,Retained
+144,144,Ishan Kishan,2 Cr,WICKETKEEPER,15.25,1982.5,MI,Mumbai Indians,Sold,From Auction,Cr,2
+145,145,Jasprit Bumrah,Retained,BOWLER,12.0,1560.0,MI,Mumbai Indians,Sold,Retained,Retained,Retained
+146,146,Tim David,40 Lakh,ALL-ROUNDER,8.25,1072.5,RCB,Mumbai Indians,Sold,From Auction,Lakh,40
+147,147,Jofra Archer,2 Cr,ALL-ROUNDER,8.0,1040.0,RR,Mumbai Indians,Sold,From Auction,Cr,2
+148,148,Suryakumar Yadav,Retained,BATTER,8.0,1040.0,MI,Mumbai Indians,Sold,Retained,Retained,Retained
+149,149,Kieron Pollard,Retained,ALL-ROUNDER,6.0,780.0,MI,Mumbai Indians,Sold,Retained,Retained,Retained
+150,150,Dewald Brevis,20 Lakh,BATTER,3.0,390.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+151,151,Daniel Sams,1 Cr,ALL-ROUNDER,2.6,338.0,RCB,Mumbai Indians,Sold,From Auction,Cr,1
+152,152,N. Tilak Varma,20 Lakh,ALL-ROUNDER,1.7,221.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+153,153,Murugan Ashwin,20 Lakh,BOWLER,1.6,208.0,PBKS,Mumbai Indians,Sold,From Auction,Lakh,20
+154,154,Tymal Mills,1 Cr,BOWLER,1.5,195.0,Not Participated,Mumbai Indians,Sold,From Auction,Cr,1
+155,155,Jaydev Unadkat,75 Lakh,BOWLER,1.3,169.0,RR,Mumbai Indians,Sold,From Auction,Lakh,75
+156,156,Riley Meredith,1 Cr,BOWLER,1.0,130.0,PBKS,Mumbai Indians,Sold,From Auction,Cr,1
+157,157,Fabian Allen,75 Lakh,ALL-ROUNDER,0.75,97.5,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,75
+158,158,Mayank Markande,50 Lakh,BOWLER,0.65,84.5,RR,Mumbai Indians,Sold,From Auction,Lakh,50
+159,159,Sanjay Yadav,20 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+160,160,Arjun Tendulkar,20 Lakh,ALL-ROUNDER,0.3,39.0,MI,Mumbai Indians,Sold,From Auction,Lakh,20
+161,161,Basil Thampi,30 Lakh,BOWLER,0.3,39.0,SRH,Mumbai Indians,Sold,From Auction,Lakh,30
+162,162,Anmolpreet Singh,20 Lakh,BATTER,0.2,26.0,MI,Mumbai Indians,Sold,From Auction,Lakh,20
+163,163,Aryan Juyal,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+164,164,Ramandeep Singh,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+165,165,Rahul Buddhi,20 Lakh,BATTER,0.2,26.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+166,166,Hrithik Shokeen,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+167,167,Mohd. Arshad Khan,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Mumbai Indians,Sold,From Auction,Lakh,20
+168,168,Virat Kohli,Retained,BATTER,15.0,1950.0,RCB,Royal Challengers Bangalore,Sold,Retained,Retained,Retained
+169,169,Glenn Maxwell,Retained,ALL-ROUNDER,11.0,1430.0,RCB,Royal Challengers Bangalore,Sold,Retained,Retained,Retained
+170,170,Wanindu Hasaranga,1 Cr,ALL-ROUNDER,10.75,1397.5,RCB,Royal Challengers Bangalore,Sold,From Auction,Cr,1
+171,171,Harshal Patel,2 Cr,ALL-ROUNDER,10.75,1397.5,RCB,Royal Challengers Bangalore,Sold,From Auction,Cr,2
+172,172,Josh Hazlewood,2 Cr,BOWLER,7.75,1007.5,CSK,Royal Challengers Bangalore,Sold,From Auction,Cr,2
+173,173,Faf Du Plessis,2 Cr,BATTER,7.0,910.0,CSK,Royal Challengers Bangalore,Sold,From Auction,Cr,2
+174,174,Mohammed Siraj,Retained,BOWLER,7.0,910.0,RCB,Royal Challengers Bangalore,Sold,Retained,Retained,Retained
+175,175,Dinesh Karthik,2 Cr,WICKETKEEPER,5.5,715.0,KKR,Royal Challengers Bangalore,Sold,From Auction,Cr,2
+176,176,Anuj Rawat,20 Lakh,WICKETKEEPER,3.4,442.0,RR,Royal Challengers Bangalore,Sold,From Auction,Lakh,20
+177,177,Shahbaz Ahamad,30 Lakh,ALL-ROUNDER,2.4,312.0,RCB,Royal Challengers Bangalore,Sold,From Auction,Lakh,30
+178,178,David Willey,2 Cr,ALL-ROUNDER,2.0,260.0,Not Participated,Royal Challengers Bangalore,Sold,From Auction,Cr,2
+179,179,Sherfane Rutherford,1 Cr,ALL-ROUNDER,1.0,130.0,Not Participated,Royal Challengers Bangalore,Sold,From Auction,Cr,1
+180,180,Mahipal Lomror,40 Lakh,ALL-ROUNDER,0.95,123.5,RR,Royal Challengers Bangalore,Sold,From Auction,Lakh,40
+181,181,Finn Allen,50 Lakh,BATTER,0.8,104.0,RCB,Royal Challengers Bangalore,Sold,From Auction,Lakh,50
+182,182,Siddharth Kaul,75 Lakh,BOWLER,0.75,97.5,SRH,Royal Challengers Bangalore,Sold,From Auction,Lakh,75
+183,183,Jason Behrendorff,75 Lakh,BOWLER,0.75,97.5,CSK,Royal Challengers Bangalore,Sold,From Auction,Lakh,75
+184,184,Karn Sharma,50 Lakh,BOWLER,0.5,65.0,CSK,Royal Challengers Bangalore,Sold,From Auction,Lakh,50
+185,185,Suyash Prabhudessai,20 Lakh,ALL-ROUNDER,0.3,39.0,RCB,Royal Challengers Bangalore,Sold,From Auction,Lakh,20
+186,186,Chama Milind,20 Lakh,BOWLER,0.25,32.5,Not Participated,Royal Challengers Bangalore,Sold,From Auction,Lakh,20
+187,187,Akash Deep,20 Lakh,BOWLER,0.2,26.0,RCB,Royal Challengers Bangalore,Sold,From Auction,Lakh,20
+188,188,Aneeshwar Gautam,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Royal Challengers Bangalore,Sold,From Auction,Lakh,20
+189,189,Luvnith Sisodia,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Royal Challengers Bangalore,Sold,From Auction,Lakh,20
+190,190,Sanju Samson,Retained,WICKETKEEPER,14.0,1820.0,RR,Rajasthan Royals,Sold,Retained,Retained,Retained
+191,191,Jos Buttler,Retained,WICKETKEEPER,10.0,1300.0,RR,Rajasthan Royals,Sold,Retained,Retained,Retained
+192,192,Prasidh Krishna,1 Cr,BOWLER,10.0,1300.0,KKR,Rajasthan Royals,Sold,From Auction,Cr,1
+193,193,Shimron Hetmyer,1.5 Cr,BATTER,8.5,1105.0,DC,Rajasthan Royals,Sold,From Auction,Cr,1.5
+194,194,Trent Boult,2 Cr,BOWLER,8.0,1040.0,MI,Rajasthan Royals,Sold,From Auction,Cr,2
+195,195,Devdutt Padikkal,2 Cr,BATTER,7.75,1007.5,RCB,Rajasthan Royals,Sold,From Auction,Cr,2
+196,196,Yuzvendra Chahal,2 Cr,BOWLER,6.5,845.0,RCB,Rajasthan Royals,Sold,From Auction,Cr,2
+197,197,R. Ashwin,2 Cr,ALL-ROUNDER,5.0,650.0,DC,Rajasthan Royals,Sold,From Auction,Cr,2
+198,198,Yashaswi Jaiswal,Retained,BATTER,4.0,520.0,RR,Rajasthan Royals,Sold,Retained,Retained,Retained
+199,199,Riyan Parag,30 Lakh,ALL-ROUNDER,3.8,494.0,RR,Rajasthan Royals,Sold,From Auction,Lakh,30
+200,200,Navdeep Saini,75 Lakh,BOWLER,2.6,338.0,RCB,Rajasthan Royals,Sold,From Auction,Lakh,75
+201,201,Nathan Coulter-Nile,2 Cr,BOWLER,2.0,260.0,MI,Rajasthan Royals,Sold,From Auction,Cr,2
+202,202,James Neesham,1.5 Cr,ALL-ROUNDER,1.5,195.0,MI,Rajasthan Royals,Sold,From Auction,Cr,1.5
+203,203,Karun Nair,50 Lakh,BATTER,1.4,182.0,KKR,Rajasthan Royals,Sold,From Auction,Lakh,50
+204,204,Rassie Van Der Dussen,1 Cr,BATTER,1.0,130.0,Not Participated,Rajasthan Royals,Sold,From Auction,Cr,1
+205,205,Obed Mccoy,75 Lakh,BOWLER,0.75,97.5,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,75
+206,206,Daryl Mitchell,75 Lakh,ALL-ROUNDER,0.75,97.5,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,75
+207,207,K.C Cariappa,20 Lakh,BOWLER,0.3,39.0,RR,Rajasthan Royals,Sold,From Auction,Lakh,20
+208,208,Anunay Singh,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,20
+209,209,Kuldeep Sen,20 Lakh,BOWLER,0.2,26.0,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,20
+210,210,Dhruv Jurel,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,20
+211,211,Tejas Baroka,20 Lakh,BOWLER,0.2,26.0,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,20
+212,212,Kuldip Yadav,20 Lakh,BOWLER,0.2,26.0,RR,Rajasthan Royals,Sold,From Auction,Lakh,20
+213,213,Shubham Garhwal,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Rajasthan Royals,Sold,From Auction,Lakh,20
+214,214,Kane Williamson,Retained,BATTER,14.0,1820.0,SRH,Sunrisers Hyderabad,Sold,Retained,Retained,Retained
+215,215,Nicholas Pooran,1.5 Cr,WICKETKEEPER,10.75,1397.5,PBKS,Sunrisers Hyderabad,Sold,From Auction,Cr,1.5
+216,216,Washington Sundar,1.5 Cr,ALL-ROUNDER,8.75,1137.5,RCB,Sunrisers Hyderabad,Sold,From Auction,Cr,1.5
+217,217,Rahul Tripathi,40 Lakh,BATTER,8.5,1105.0,KKR,Sunrisers Hyderabad,Sold,From Auction,Lakh,40
+218,218,Romario Shepherd,75 Lakh,ALL-ROUNDER,7.75,1007.5,Not Participated,Sunrisers Hyderabad,Sold,From Auction,Lakh,75
+219,219,Abhishek Sharma,20 Lakh,ALL-ROUNDER,6.5,845.0,SRH,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+220,220,Marco Jansen,50 Lakh,ALL-ROUNDER,4.2,546.0,MI,Sunrisers Hyderabad,Sold,From Auction,Lakh,50
+221,221,Bhuvneshwar Kumar,2 Cr,BOWLER,4.2,546.0,SRH,Sunrisers Hyderabad,Sold,From Auction,Cr,2
+222,222,T. Natarajan,1 Cr,BOWLER,4.0,520.0,SRH,Sunrisers Hyderabad,Sold,From Auction,Cr,1
+223,223,Abdul Samad,Retained,ALL-ROUNDER,4.0,520.0,SRH,Sunrisers Hyderabad,Sold,Retained,Retained,Retained
+224,224,Umran Malik,Retained,BOWLER,4.0,520.0,SRH,Sunrisers Hyderabad,Sold,Retained,Retained,Retained
+225,225,Kartik Tyagi,20 Lakh,BOWLER,4.0,520.0,RR,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+226,226,Aiden Markram,1 Cr,BATTER,2.6,338.0,PBKS,Sunrisers Hyderabad,Sold,From Auction,Cr,1
+227,227,Sean Abbott,75 Lakh,BOWLER,2.4,312.0,Not Participated,Sunrisers Hyderabad,Sold,From Auction,Lakh,75
+228,228,Glenn Phillips,1.5 Cr,WICKETKEEPER,1.5,195.0,RR,Sunrisers Hyderabad,Sold,From Auction,Cr,1.5
+229,229,Shreyas Gopal,20 Lakh,BOWLER,0.75,97.5,RR,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+230,230,Vishnu Vinod,20 Lakh,WICKETKEEPER,0.5,65.0,DC,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+231,231,Fazalhaq Farooqi,50 Lakh,BOWLER,0.5,65.0,Not Participated,Sunrisers Hyderabad,Sold,From Auction,Lakh,50
+232,232,Priyam Garg,20 Lakh,BATTER,0.2,26.0,SRH,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+233,233,R Samarth,20 Lakh,BATTER,0.2,26.0,Not Participated,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+234,234,Jagadeesha Suchith,20 Lakh,BOWLER,0.2,26.0,SRH,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+235,235,Shashank Singh,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
+236,236,Saurabh Dubey,20 Lakh,BOWLER,0.2,26.0,Not Participated,Sunrisers Hyderabad,Sold,From Auction,Lakh,20
